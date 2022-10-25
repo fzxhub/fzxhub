@@ -5,7 +5,7 @@
 
 
 ## About fzxhub
-- `Embedded` && `Circuit `
+- `Embedded` && `Circuit` && `Vehicle`
 
 - Blog: https://fzxhub.com
 - Blog: https://fzxhub.cn
@@ -13,8 +13,7 @@
 - GitHub: https://github.com/fzxhub
 - Gitee: https://gitee.com/fzxhub
 
-- 知乎: https://www.zhihu.com/people/fzxhub
+- Zhihu: https://www.zhihu.com/people/fzxhub
 
 - SCDN: https://blog.csdn.net/fzxhub
 
-- 公众号: fzxhub
