@@ -7,12 +7,11 @@
 ## About fzxhub
 - `Embedded` && `Circuit` && `Vehicle`
 
-- Blog: https://fzxhub.com (vercel)
-- Blog: https://fzxhub.cn (aliyun)
-- Blog: https://fzxhub.net (github)
+- Home: https://fzxhub.com (vercel)
+- Home: https://fzxhub.cn (aliyun)
+- Home: https://fzxhub.net (github)
 
 - GitHub: https://github.com/fzxhub
-- Gitee: https://gitee.com/fzxhub
 
 - Zhihu: https://www.zhihu.com/people/fzxhub
 
