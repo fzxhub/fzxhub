@@ -1,8 +1,6 @@
 ## Hi👋, Welcome!
 
 
-## About fzxhub
-
 - Home: https://fzxhub.com (vercel)
 - Home: https://fzxhub.cn (aliyun)
 - Home: https://fzxhub.net (github)
