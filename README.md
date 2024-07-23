@@ -1,11 +1,7 @@
 ## Hi👋, Welcome!
 
 
-[![fzxhub's github stats](https://github-readme-stats.vercel.app/api?username=fzxhub&show_icons=true&theme=merko&hide=stars)](https://github.com/fzxhub)
-
-
 ## About fzxhub
-- `Embedded` && `Circuit` && `Vehicle`
 
 - Home: https://fzxhub.com (vercel)
 - Home: https://fzxhub.cn (aliyun)
