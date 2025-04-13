@@ -11,5 +11,5 @@
 
 - SCDN: https://blog.csdn.net/fzxhub
 
-- Bili: https://blog.csdn.net/fzxhub
+- Bili: https://space.bilibili.com/438749069
 
