@@ -9,7 +9,7 @@
 
 - Zhihu: https://www.zhihu.com/people/fzxhub
 
-- SCDN: https://blog.csdn.net/fzxhub
+- CSDN: https://blog.csdn.net/fzxhub
 
 - BiliBili: https://space.bilibili.com/438749069
 
